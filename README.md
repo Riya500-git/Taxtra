@@ -1,26 +1,18 @@
 
 <h1 align="center">TAXTRA</h1>
 <p align="center"><img src="img/logo.png" alt="Logo" width="150px" height="150px" hspace="10"/>
-<!-- <p align="center">    
-    <img src=https://img.shields.io/github/license/covidoff/covidoff>  
-    <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/covidoff/covidoff">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/covidoff/covidoff">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/covidoff/covidoff">
-</p> -->
-
 
 ## Website: 
     
     Table of contents
 
 - [Contribution Guideline](#Contribution-guideline)
-- [Inspiration](#Problem-identified)
-- [Solution](#Solution-provided)
-- [Build](#Build)
-- [Challenges](#Challenges-we-ran-into)
-- [Accomplishments](#Our-accomplishments)
-- [Learnings](#Our-learnings)
+- [Inspiration](#Problem-identified-⚡)
+- [Solution](#Solution-provided-🚀)
+- [Built](#Built)
+- [Challenges](#Challenges-we-ran-into-💪)
+- [Accomplishments](#Our-accomplishments-🏆)
+- [Learnings](#Our-learnings-🙌)
 - [Contributers](#Contributers)
 - [License](#License)
 
@@ -89,7 +81,7 @@
  - And The Website as a whole is an accomplishment. :slight_smile:
     
 
- ### Our learnings 🙌
+ ## Our learnings 🙌
     
 - Learned how to work in a team and how to use various sponsors like Twilio, Go daddy in the project and how to do presentations. 
 
