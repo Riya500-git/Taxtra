@@ -11,6 +11,15 @@
 
 
 ## Website: 
+    
+    Table of contents
+=================
+- [Contribution Guideline](#contribution-guideline)
+- [Inspiration](#inspiration)
+- [Build](#how-we-built-it)
+- [Challenges](#challenges-we-ran-into)
+- [Accomplishments](#accomplishments-that-were-proud-of)
+- [Learnings](#what-we-learned)
 
 
 ## Problem identified
@@ -60,5 +69,7 @@
 <!-- Just go through the **[contribution guidelines](https://github.com/covidoff/covidoff/blob/main/CONTRIBUTING.md)** to get started with your contributions. -->
 
 ## License
+
+[MIT](https://github.com/nishanths/license/blob/master/LICENSE)
 
 
