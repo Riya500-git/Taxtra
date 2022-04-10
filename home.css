@@ -19,7 +19,7 @@
 }
         
 video {
-    min-width: 100%;
+    width: 100%;
     min-height: 100%;
     z-index: -100;
     background-position: center;
@@ -69,6 +69,7 @@ nav ul li a::hover::after{
     color: #fff;
     position: absolute;
     bottom: 8%;
+    margin-left: 30px;
 }
 .text-box p{
     font-size: 50px;
@@ -78,8 +79,7 @@ nav ul li a::hover::after{
     font-size: 190px;
     line-height: 160px;
     margin-left: -10px;
-    color: transparent;
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: 1px rgb(14, 13, 13);
     background: url(img/back.png);
     -webkit-background-clip: text;
     background-position: 0 0;
@@ -102,7 +102,7 @@ nav ul li a::hover::after{
     margin-top: 30px;
 }
 .text-box a{
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 20px;
     margin-right: 20px;
@@ -129,4 +129,8 @@ nav ul li a::hover::after{
   align-items: center;
   color: rgb(170, 31, 31);
 
+}
+
+.ab :hover{
+    cursor: pointer;
 }
