@@ -14,15 +14,15 @@
 
 
 ## Problem identified
-
+>The major problem is that common people are paying more tax than what they should pay. The reason behind this lack of awareness. Common people do not know much about the schemes provided by the Government of India. Such schemes include deductions u/s 80C, 80D, healthcheckups, HRA, LTA and many more. They normally combine exemption and deductions and then pay their tax, which ends up in paying higher tax.
 
 
 ## Solution provided
-
+> Taxtra helps people to understand the basic difference between exemption and deductions by creating awareness. We are segregating exemption and ddeduction. Taxtra helps people to manage their tax. Taxtra analyses ones annual salary and then provides different personalised plans for deductions and exemptions to them, so they have to pay minimum or no tax. Taxtra abides all the rules and regulations stated by the Government of India. Taxtra also helps corporates to revise their salary structure and thus emloyees could get more in-hand salary without any change in the CTC. 
 
 
 ## Built
-
+>
 
 ## Tech Stacks Used
 
@@ -42,7 +42,7 @@
 
 
 
-## Our accomplishments>
+## Our accomplishments
 
 
  ### Our learnings
