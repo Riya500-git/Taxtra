@@ -52,7 +52,7 @@
 
 
 - [Riya Agrawal](https://github.com/Riya500-git)
-- [Lavakush Baniya](https://github.com/lavakush07)
+- [Lavakush Biyani](https://github.com/lavakush07)
 - [Tushar Mukhopadhyay](https://github.com/snowstorm003)
 
 ## Contribution guidlines
