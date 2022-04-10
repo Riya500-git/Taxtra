@@ -14,15 +14,18 @@
     
     Table of contents
 
-- [Contribution Guideline](#contribution-guideline)
-- [Inspiration](#inspiration)
-- [Build](#how-we-built-it)
-- [Challenges](#challenges-we-ran-into)
-- [Accomplishments](#accomplishments-that-were-proud-of)
-- [Learnings](#what-we-learned)
+- [Contribution Guideline](#Contribution-guideline)
+- [Inspiration](#Problem-identified)
+- [Solution](#Solution-provided)
+- [Build](#Build-with)
+- [Challenges](#Challenges-we-ran-into)
+- [Accomplishments](#Our-accomplishments)
+- [Learnings](#Our-learnings)
+- [Contributers](#Contributers)
+- [License](#License)
 
    
- ## contribution-guideline
+ ## Contribution guideline
 
 1. Fork the project.
 
@@ -83,7 +86,7 @@
     
  - We were happy that we implemented everything that we thought about taxtra in a modern way.
    
- - Aaand The Website as a whole is an accomplishment. :slight_smile:
+ - And The Website as a whole is an accomplishment. :slight_smile:
     
 
  ### Our learnings 🙌
@@ -98,9 +101,6 @@
 - [Lavakush Biyani](https://github.com/lavakush07)
 - [Tushar Mukhopadhyay](https://github.com/snowstorm003)
 
-## Contribution guidelines
-
-<!-- Just go through the **[contribution guidelines](https://github.com/covidoff/covidoff/blob/main/CONTRIBUTING.md)** to get started with your contributions. -->
 
 ## License
 
