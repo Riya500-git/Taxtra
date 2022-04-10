@@ -1,7 +1,7 @@
 
 <h1 align="center">TAXTRA</h1>
 <p align="center"><img src="img/logo.png" alt="Logo" width="150px" height="150px" hspace="10"/>
-
+<p align="center"><img src="img/banner.png">
 ## Website: 
     
     Table of contents
