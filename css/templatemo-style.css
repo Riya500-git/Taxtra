@@ -252,6 +252,7 @@ p, address {
 
 .tm-site-text-box {
   display: inline-block;
+  /* color: #000; */
 }
 
 .tm-site-title {
