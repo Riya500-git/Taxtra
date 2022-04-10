@@ -17,7 +17,7 @@
 - [Contribution Guideline](#Contribution-guideline)
 - [Inspiration](#Problem-identified)
 - [Solution](#Solution-provided)
-- [Build](#Build-with)
+- [Build](#Build)
 - [Challenges](#Challenges-we-ran-into)
 - [Accomplishments](#Our-accomplishments)
 - [Learnings](#Our-learnings)
@@ -70,7 +70,7 @@
 > Taxtra helps people to understand the basic difference between exemption and deductions by creating awareness. We are segregating exemption and ddeduction. Taxtra helps people to manage their tax. Taxtra analyses ones annual salary and then provides different personalised plans for deductions and exemptions to them, so they have to pay minimum or no tax. Taxtra abides all the rules and regulations stated by the Government of India. Taxtra also helps corporates to revise their salary structure and thus emloyees could get more in-hand salary without any change in the CTC 💰. 
 
 
-## Built With
+## Built 
     
 > HTML5, CSS3, JAVASCRIPT, NODE.JS
 
