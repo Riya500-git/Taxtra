@@ -1,7 +1,6 @@
 
-<h1 align="center">TAXTRA</h1>
-<p align="center"><img src="img/logo.png" alt="Logo" width="150px" height="150px" hspace="10"/>
 <p align="center"><img src="img/banner.png">
+
 ## Website: 
     
     Table of contents
@@ -59,12 +58,11 @@
 
 
 ## Solution provided 🚀
-> Taxtra helps people to understand the basic difference between exemption and deductions by creating awareness. We are segregating exemption and ddeduction. Taxtra helps people to manage their tax. Taxtra analyses ones annual salary and then provides different personalised plans for deductions and exemptions to them, so they have to pay minimum or no tax. Taxtra abides all the rules and regulations stated by the Government of India. Taxtra also helps corporates to revise their salary structure and thus emloyees could get more in-hand salary without any change in the CTC 💰. 
-
+> Taxtra helps people to understand the basic difference between exemption and deductions by creating awareness. We are segregating exemption and deduction. Taxtra helps people to manage their taxes. Taxtra analyses one annual salary and then provides different personalized plans for deductions and exemptions to them, so they have to pay minimum or no tax. Taxtra abides by all the rules and regulations stated by the Government of India. Taxtra also helps corporates to revise their salary structure and thus employees could get more in-hand salary without any change in the CTC 💰
 
 ## Built 
     
-> HTML5, CSS3, JAVASCRIPT, NODE.JS
+> HTML5, CSS3, JAVASCRIPT, NODE.JS, TWILIO
 
 
  ## Challenges we ran into 💪
