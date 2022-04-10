@@ -13,7 +13,7 @@
 ## Website: 
     
     Table of contents
-=================
+
 - [Contribution Guideline](#contribution-guideline)
 - [Inspiration](#inspiration)
 - [Build](#how-we-built-it)
